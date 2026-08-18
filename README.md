@@ -9,3 +9,7 @@ Se ubica en el centro del país. Limita al norte con **Nicaragua**, al sur con *
 ## Población
 
 Heredia tiene una población de 546 000 habitantes.
+
+## Economía
+
+Las principales actividades económicas son el turismo, la manufactura y el comercio.

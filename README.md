@@ -8,4 +8,4 @@ Se ubica en el centro del país. Limita al norte con **Nicaragua**, al sur con *
 
 ## Economía
 
-Las principales actividades económicas son el turismo, la manufactura y el comercio.
+Las principales actividades económicas son el turismo, la ganadería y el comercio.

@@ -1,2 +1,5 @@
-# practica-markdown
-Práctica en el lenguaje de marcado Markdown
+# Encabezado de nivel 1
+
+## Encabezado de nivel 2
+
+**negrita**

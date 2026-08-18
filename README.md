@@ -2,7 +2,7 @@
 
 Heredia es la provincia 4 de [Costa Rica](https://es.wikipedia.org/wiki/Costa_Rica).
 
-https://es.wikipedia.org/wiki/Provincia_de_Heredia#/media/Archivo:Fort%C3%ADn_de_Heredia.jpg
+![](https://es.wikipedia.org/wiki/Provincia_de_Heredia#/media/Archivo:Fort%C3%ADn_de_Heredia.jpg)
 
 ## Ubicación
 
